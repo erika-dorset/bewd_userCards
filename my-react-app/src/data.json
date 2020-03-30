@@ -1,0 +1,140 @@
+{
+    "results": [
+        {
+            "name": {
+                "title": "miss",
+                "first": "laura",
+                "last": "moore"
+            },
+            "picture": {
+                "large": "https://randomuser.me/api/portraits/women/10.jpg",
+                "medium": "https://randomuser.me/api/portraits/med/women/10.jpg",
+                "thumbnail": "https://randomuser.me/api/portraits/thumb/women/10.jpg"
+            },
+            "quote": "Good, better, best. Never let it rest. 'Til your good is better and your better is best."
+        },
+        {
+            "name": {
+                "title": "mr",
+                "first": "martin",
+                "last": "kavanagh"
+            },
+            "picture": {
+                "large": "https://randomuser.me/api/portraits/men/60.jpg",
+                "medium": "https://randomuser.me/api/portraits/med/men/60.jpg",
+                "thumbnail": "https://randomuser.me/api/portraits/thumb/men/60.jpg"
+            },
+            "quote": "You can totally do this."
+        },
+        {
+            "name": {
+                "title": "mr",
+                "first": "john",
+                "last": "walsh"
+            },
+            "picture": {
+                "large": "https://randomuser.me/api/portraits/men/80.jpg",
+                "medium": "https://randomuser.me/api/portraits/med/men/80.jpg",
+                "thumbnail": "https://randomuser.me/api/portraits/thumb/men/80.jpg"
+            },
+            "quote": "No pressure, no diamonds."
+        },
+        {
+            "name": {
+                "title": "mr",
+                "first": "thomas",
+                "last": "berger"
+            },
+            "picture": {
+                "large": "https://randomuser.me/api/portraits/men/50.jpg",
+                "medium": "https://randomuser.me/api/portraits/med/men/50.jpg",
+                "thumbnail": "https://randomuser.me/api/portraits/thumb/men/50.jpg"
+            },
+            "quote": "I can and I will!"
+        },
+        {
+            "name": {
+                "title": "miss",
+                "first": "yen",
+                "last": "hu"
+            },
+            "picture": {
+                "large": "https://randomuser.me/api/portraits/women/80.jpg",
+                "medium": "https://randomuser.me/api/portraits/med/women/80.jpg",
+                "thumbnail": "https://randomuser.me/api/portraits/thumb/women/80.jpg"
+            },
+            "quote": "The bird a nest, the spider a web, man friendship."
+        },
+        {
+            "name": {
+                "title": "mr",
+                "first": "francis",
+                "last": "auclair"
+            },
+            "picture": {
+                "large": "https://randomuser.me/api/portraits/men/9.jpg",
+                "medium": "https://randomuser.me/api/portraits/med/men/9.jpg",
+                "thumbnail": "https://randomuser.me/api/portraits/thumb/men/9.jpg"
+            },
+            "quote": "No guts, no story."
+        },
+        {
+            "name": {
+                "title": "mr",
+                "first": "babür",
+                "last": "eliçin"
+            },
+            "picture": {
+                "large": "https://randomuser.me/api/portraits/men/75.jpg",
+                "medium": "https://randomuser.me/api/portraits/med/men/75.jpg",
+                "thumbnail": "https://randomuser.me/api/portraits/thumb/men/75.jpg"
+            },
+            "quote": "The future is here, it's just not evenly distributed"
+        },
+        {
+            "name": {
+                "title": "mr",
+                "first": "harvin",
+                "last": "gadzules"
+            },
+            "picture": {
+                "large": "https://randomuser.me/api/portraits/men/11.jpg",
+                "medium": "https://randomuser.me/api/portraits/med/men/11.jpg",
+                "thumbnail": "https://randomuser.me/api/portraits/thumb/men/11.jpg"
+            },
+            "quote": "Dream big. Pray bigger."
+        },
+        {
+            "name": {
+                "title": "mrs",
+                "first": "millie",
+                "last": "walsh"
+            },
+            "picture": {
+                "large": "https://randomuser.me/api/portraits/women/9.jpg",
+                "medium": "https://randomuser.me/api/portraits/med/women/9.jpg",
+                "thumbnail": "https://randomuser.me/api/portraits/thumb/women/9.jpg"
+            },
+            "quote": "And so the adventure begins."
+        },
+        {
+            "name": {
+                "title": "mr",
+                "first": "aadrik",
+                "last": "patel"
+            },
+            "picture": {
+                "large": "https://randomuser.me/api/portraits/men/65.jpg",
+                "medium": "https://randomuser.me/api/portraits/med/men/65.jpg",
+                "thumbnail": "https://randomuser.me/api/portraits/thumb/men/65.jpg"
+            },
+            "quote": "Do it with passion or not at all."
+        }
+    ],
+    "info": {
+        "seed": "c52886ce5f3e0938",
+        "results": 10,
+        "page": 1,
+        "version": "1.2"
+    }
+}
